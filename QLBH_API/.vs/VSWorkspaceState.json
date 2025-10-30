@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\QLBH_API",
+    "\\QLBH_API\\QLBH_API",
+    "\\QLBH_API\\QLBH_API\\Models",
+    "\\QLBH_API\\QLBH_WEB",
+    "\\QLBH_API\\QLBH_WEB\\Controllers",
+    "\\QLBH_API\\QLBH_WEB\\Views",
+    "\\QLBH_API\\QLBH_WEB\\Views\\QuanLySanPham"
+  ],
+  "SelectedNode": "\\QLBH_API\\QLBH_WEB\\Controllers\\QuanLySanPhamController.cs",
+  "PreviewInSolutionExplorer": false
+}

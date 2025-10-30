@@ -1,0 +1,62 @@
+﻿@model QLBH_WEB.Models.SanPhamViewModel
+@{
+    ViewBag.Title = "Chi tiết sản phẩm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@* Thêm liên kết đến CSS riêng cho trang chi tiết *@
+@section Styles {
+    <link href="@Url.Content("~/Content/css/details.css")" rel="stylesheet" type="text/css" />
+}
+
+<div class="product-detail-wrapper">
+    <h2 class="detail-page-title">CHI TIẾT SẢN PHẨM: @Model.TENSANPHAM</h2>
+
+    <div class="detail-card">
+        <div class="detail-content-layout">
+
+            @* Cột Hình ảnh *@
+            <div class="product-image-box">
+                <img src="@Url.Content("~/Content/images/" + (Model.HINHANH ?? "no-image.png"))"
+                     alt="@Model.TENSANPHAM"
+                     class="detail-product-image" />
+            </div>
+
+            @* Cột Thông tin chi tiết *@
+            <div class="product-specs">
+                <h1 class="product-name-title">@Html.DisplayFor(model => model.TENSANPHAM)</h1>
+
+                <div class="detail-group">
+                    @* Sử dụng dl-horizontal để hiển thị các trường *@
+                    <dl class="dl-horizontal">
+                        <dt>Mã sản phẩm</dt>
+                        <dd>@Html.DisplayFor(model => model.MASANPHAM)</dd>
+
+                        <dt>Đơn giá</dt>
+                        <dd class="product-price">@String.Format("{0:N0} ₫", Model.DONGIA)</dd>
+
+                        <dt>Số lượng tồn</dt>
+                        <dd>@Html.DisplayFor(model => model.SOLUONG)</dd>
+
+                        @* Thêm các trường khác tại đây nếu có *@
+                    </dl>
+                </div>
+
+                <div class="detail-actions">
+                    @Html.ActionLink("Sửa sản phẩm", "Edit", new { id = Model.MASANPHAM }, new { @class = "detail-action-btn btn-edit" })
+                    @Html.ActionLink("Quay lại danh sách", "Index", null, new { @class = "detail-action-btn btn-back" })
+                </div>
+            </div>
+
+        </div>
+
+        @* Phần Mô tả (Dài hơn, tách riêng) *@
+        <div class="product-description-section">
+            <h3 class="section-title">Mô tả chi tiết</h3>
+            <div class="description-text">
+                @Html.DisplayFor(model => model.MOTA) @* Hiển thị mô tả *@
+            </div>
+        </div>
+
+    </div>
+</div>
