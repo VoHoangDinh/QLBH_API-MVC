@@ -3,40 +3,100 @@
   "WorkspaceRootPath": "F:\\Dowload\\QLBH_API\\QLBH_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|f:\\dowload\\qlbh_api\\qlbh_api\\qlbh_web\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|f:\\dowload\\qlbh_api\\qlbh_api\\qlbh_admin\\controllers\\quanlysanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|solutionrelative:qlbh_admin\\controllers\\quanlysanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\controllers\\quanlysanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\controllers\\quanlysanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_admin\\views\\quanlysanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|solutionrelative:qlbh_admin\\views\\quanlysanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_admin\\views\\quanlysanpham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|solutionrelative:qlbh_admin\\views\\quanlysanpham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\views\\quanlysanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\views\\quanlysanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_admin\\content\\css\\details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|solutionrelative:qlbh_admin\\content\\css\\details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_admin\\views\\quanlysanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|solutionrelative:qlbh_admin\\views\\quanlysanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\content\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\content\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_admin\\content\\css\\create.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|solutionrelative:qlbh_admin\\content\\css\\create.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\content\\css\\editsanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\content\\css\\editsanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_admin\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|solutionrelative:qlbh_admin\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|solutionrelative:qlbh_admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\views\\quanlysanpham\\_sanphamform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\views\\quanlysanpham\\_sanphamform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\content\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\content\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\content\\css\\qlsanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\content\\css\\qlsanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\content\\css\\iecss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\content\\css\\iecss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\content\\css\\dssanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\content\\css\\dssanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\content\\css\\details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\content\\css\\details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_admin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|solutionrelative:qlbh_admin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_admin\\views\\quanlysanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|solutionrelative:qlbh_admin\\views\\quanlysanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_admin\\models\\sanphamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|solutionrelative:qlbh_admin\\models\\sanphamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_admin\\models\\danhmucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}|QLBH_ADMIN\\QLBH_ADMIN.csproj|solutionrelative:qlbh_admin\\models\\danhmucviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF806C22-7A08-4AFA-ABE1-A1AD8D70FB48}|QLBH_API\\QLBH_API.csproj|f:\\dowload\\qlbh_api\\qlbh_api\\qlbh_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,36 +123,12 @@
       "RelativeMoniker": "D:0:0:{EF806C22-7A08-4AFA-ABE1-A1AD8D70FB48}|QLBH_API\\QLBH_API.csproj|solutionrelative:qlbh_api\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\views\\quanlysanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\views\\quanlysanpham\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\views\\quanlysanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\views\\quanlysanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF806C22-7A08-4AFA-ABE1-A1AD8D70FB48}|QLBH_API\\QLBH_API.csproj|f:\\dowload\\qlbh_api\\qlbh_api\\qlbh_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EF806C22-7A08-4AFA-ABE1-A1AD8D70FB48}|QLBH_API\\QLBH_API.csproj|solutionrelative:qlbh_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF806C22-7A08-4AFA-ABE1-A1AD8D70FB48}|QLBH_API\\QLBH_API.csproj|f:\\dowload\\qlbh_api\\qlbh_api\\qlbh_api\\models\\cartitemdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF806C22-7A08-4AFA-ABE1-A1AD8D70FB48}|QLBH_API\\QLBH_API.csproj|solutionrelative:qlbh_api\\models\\cartitemdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\content\\css\\details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\content\\css\\details.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\content\\css\\dssanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\content\\css\\dssanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\content\\css\\editsanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\content\\css\\editsanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\content\\css\\qlsanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\content\\css\\qlsanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -113,10 +149,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\content\\css\\cart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\content\\css\\cart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\views\\quanlysanpham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\views\\quanlysanpham\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF806C22-7A08-4AFA-ABE1-A1AD8D70FB48}|QLBH_API\\QLBH_API.csproj|f:\\dowload\\qlbh_api\\qlbh_api\\qlbh_api\\models\\danhmucrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -183,10 +215,6 @@
       "RelativeMoniker": "D:0:0:{EF806C22-7A08-4AFA-ABE1-A1AD8D70FB48}|QLBH_API\\QLBH_API.csproj|solutionrelative:qlbh_api\\models\\tbsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|F:\\Dowload\\QLBH_API\\QLBH_API\\qlbh_web\\views\\cart\\_shoppingcartwidget.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}|QLBH_WEB\\QLBH_WEB.csproj|solutionrelative:qlbh_web\\views\\cart\\_shoppingcartwidget.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -202,7 +230,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -258,27 +286,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "QLBH_WEB\\Controllers\\CartController.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Controllers\\CartController.cs",
-              "RelativeToolTip": "QLBH_WEB\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T19:54:13.387Z"
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "QLBH_ADMIN\\Views\\Home\\About.cshtml",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "QLBH_ADMIN\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T15:59:48.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\QuanLySanPham\\Index.cshtml",
-              "RelativeDocumentMoniker": "QLBH_WEB\\Views\\QuanLySanPham\\Index.cshtml",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\QuanLySanPham\\Index.cshtml",
-              "RelativeToolTip": "QLBH_WEB\\Views\\QuanLySanPham\\Index.cshtml",
-              "ViewState": "AgIAACUAAAAAAAAAAAAwwD0AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Views\\QuanLySanPham\\Create.cshtml",
+              "RelativeDocumentMoniker": "QLBH_ADMIN\\Views\\QuanLySanPham\\Create.cshtml",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Views\\QuanLySanPham\\Create.cshtml",
+              "RelativeToolTip": "QLBH_ADMIN\\Views\\QuanLySanPham\\Create.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwEwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T13:50:51.793Z"
+              "WhenOpened": "2025-10-30T15:43:33.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditSanPham.css",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\EditSanPham.css",
+              "RelativeDocumentMoniker": "QLBH_WEB\\Content\\css\\EditSanPham.css",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\EditSanPham.css",
+              "RelativeToolTip": "QLBH_WEB\\Content\\css\\EditSanPham.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-23T13:54:11.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Views\\QuanLySanPham\\Details.cshtml",
+              "RelativeDocumentMoniker": "QLBH_ADMIN\\Views\\QuanLySanPham\\Details.cshtml",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Views\\QuanLySanPham\\Details.cshtml",
+              "RelativeToolTip": "QLBH_ADMIN\\Views\\QuanLySanPham\\Details.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T15:44:28.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Views\\QuanLySanPham\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLBH_ADMIN\\Views\\QuanLySanPham\\Edit.cshtml",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Views\\QuanLySanPham\\Edit.cshtml",
+              "RelativeToolTip": "QLBH_ADMIN\\Views\\QuanLySanPham\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T15:43:58.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLySanPhamController.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Controllers\\QuanLySanPhamController.cs",
+              "RelativeDocumentMoniker": "QLBH_ADMIN\\Controllers\\QuanLySanPhamController.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Controllers\\QuanLySanPhamController.cs",
+              "RelativeToolTip": "QLBH_ADMIN\\Controllers\\QuanLySanPhamController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:41:46.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Site.css",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\Site.css",
+              "RelativeDocumentMoniker": "QLBH_WEB\\Content\\css\\Site.css",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\Site.css",
+              "RelativeToolTip": "QLBH_WEB\\Content\\css\\Site.css",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-23T13:54:32.152Z"
             },
             {
               "$type": "Document",
@@ -295,344 +384,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QuanLySanPhamController.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Controllers\\QuanLySanPhamController.cs",
-              "RelativeDocumentMoniker": "QLBH_WEB\\Controllers\\QuanLySanPhamController.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Controllers\\QuanLySanPhamController.cs",
-              "RelativeToolTip": "QLBH_WEB\\Controllers\\QuanLySanPhamController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T13:08:19.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "QLBH_WEB\\Controllers\\HomeController.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "QLBH_WEB\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T19:57:54.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Web.config",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Web.config",
-              "RelativeDocumentMoniker": "QLBH_WEB\\Web.config",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Web.config",
-              "RelativeToolTip": "QLBH_WEB\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-13T20:24:19.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Site.css",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\Site.css",
-              "RelativeDocumentMoniker": "QLBH_WEB\\Content\\css\\Site.css",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\Site.css",
-              "RelativeToolTip": "QLBH_WEB\\Content\\css\\Site.css",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-23T13:54:32.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "style.css",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\style.css",
-              "RelativeDocumentMoniker": "QLBH_WEB\\Content\\css\\style.css",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\style.css",
-              "RelativeToolTip": "QLBH_WEB\\Content\\css\\style.css",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAIIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-23T13:54:26.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_SanPhamForm.cshtml",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\QuanLySanPham\\_SanPhamForm.cshtml",
-              "RelativeDocumentMoniker": "QLBH_WEB\\Views\\QuanLySanPham\\_SanPhamForm.cshtml",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\QuanLySanPham\\_SanPhamForm.cshtml",
-              "RelativeToolTip": "QLBH_WEB\\Views\\QuanLySanPham\\_SanPhamForm.cshtml",
+              "Title": "Create.css",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Content\\css\\Create.css",
+              "RelativeDocumentMoniker": "QLBH_ADMIN\\Content\\css\\Create.css",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Content\\css\\Create.css",
+              "RelativeToolTip": "QLBH_ADMIN\\Content\\css\\Create.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T20:47:56.036Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-30T16:01:15.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "QLBH_API\\Properties\\launchSettings.json",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "QLBH_API\\Properties\\launchSettings.json",
+              "DocumentIndex": 4,
+              "Title": "details.css",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Content\\css\\details.css",
+              "RelativeDocumentMoniker": "QLBH_ADMIN\\Content\\css\\details.css",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Content\\css\\details.css",
+              "RelativeToolTip": "QLBH_ADMIN\\Content\\css\\details.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-23T13:02:02.689Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-30T16:11:09.425Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "SanPhamController.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Controllers\\SanPhamController.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Controllers\\SanPhamController.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Controllers\\SanPhamController.cs",
-              "RelativeToolTip": "QLBH_API\\Controllers\\SanPhamController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T06:05:10.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Program.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Program.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Program.cs",
-              "RelativeToolTip": "QLBH_API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T20:04:18.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Data\\DataContext.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Data\\DataContext.cs",
-              "RelativeToolTip": "QLBH_API\\Data\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T20:03:18.811Z"
+              "Title": "qlSANPHAM.css",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\qlSANPHAM.css",
+              "RelativeDocumentMoniker": "QLBH_WEB\\Content\\css\\qlSANPHAM.css",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\qlSANPHAM.css",
+              "RelativeToolTip": "QLBH_WEB\\Content\\css\\qlSANPHAM.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-23T13:54:43.88Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "DanhMucController.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Controllers\\DanhMucController.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Controllers\\DanhMucController.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Controllers\\DanhMucController.cs",
-              "RelativeToolTip": "QLBH_API\\Controllers\\DanhMucController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T06:04:56.679Z"
+              "Title": "iecss.css",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\iecss.css",
+              "RelativeDocumentMoniker": "QLBH_WEB\\Content\\css\\iecss.css",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\iecss.css",
+              "RelativeToolTip": "QLBH_WEB\\Content\\css\\iecss.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-30T15:58:16.909Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "GioHangController.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Controllers\\GioHangController.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Controllers\\GioHangController.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Controllers\\GioHangController.cs",
-              "RelativeToolTip": "QLBH_API\\Controllers\\GioHangController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T19:47:53.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\appsettings.json",
-              "RelativeDocumentMoniker": "QLBH_API\\appsettings.json",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\appsettings.json",
-              "RelativeToolTip": "QLBH_API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-23T13:01:15.266Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CartItemDetail.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\CartItemDetail.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Models\\CartItemDetail.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\CartItemDetail.cs",
-              "RelativeToolTip": "QLBH_API\\Models\\CartItemDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T14:16:50.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "DanhMucRepository.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\DanhMucRepository.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Models\\DanhMucRepository.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\DanhMucRepository.cs",
-              "RelativeToolTip": "QLBH_API\\Models\\DanhMucRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T13:07:08.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20251013185729_InitialCreate.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Migrations\\20251013185729_InitialCreate.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Migrations\\20251013185729_InitialCreate.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Migrations\\20251013185729_InitialCreate.cs",
-              "RelativeToolTip": "QLBH_API\\Migrations\\20251013185729_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T13:12:39.153Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "DataContextModelSnapshot.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Migrations\\DataContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Migrations\\DataContextModelSnapshot.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Migrations\\DataContextModelSnapshot.cs",
-              "RelativeToolTip": "QLBH_API\\Migrations\\DataContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T13:12:38.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "IDanhMucRepository.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\IDanhMucRepository.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Models\\IDanhMucRepository.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\IDanhMucRepository.cs",
-              "RelativeToolTip": "QLBH_API\\Models\\IDanhMucRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T20:08:44.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "IGioHangRepository.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\IGioHangRepository.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Models\\IGioHangRepository.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\IGioHangRepository.cs",
-              "RelativeToolTip": "QLBH_API\\Models\\IGioHangRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T20:08:43.799Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ISanPhamRepository.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\ISanPhamRepository.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Models\\ISanPhamRepository.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\ISanPhamRepository.cs",
-              "RelativeToolTip": "QLBH_API\\Models\\ISanPhamRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T06:04:38.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "GioHangRepository.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\GioHangRepository.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Models\\GioHangRepository.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\GioHangRepository.cs",
-              "RelativeToolTip": "QLBH_API\\Models\\GioHangRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T20:03:52.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "SanPhamRepository.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\SanPhamRepository.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Models\\SanPhamRepository.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\SanPhamRepository.cs",
-              "RelativeToolTip": "QLBH_API\\Models\\SanPhamRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T13:07:03.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "tbSanPham.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\tbSanPham.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Models\\tbSanPham.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\tbSanPham.cs",
-              "RelativeToolTip": "QLBH_API\\Models\\tbSanPham.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T02:47:12.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "tbGioHang.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\tbGioHang.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Models\\tbGioHang.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\tbGioHang.cs",
-              "RelativeToolTip": "QLBH_API\\Models\\tbGioHang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T03:07:55.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "tbDanhMuc.cs",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\tbDanhMuc.cs",
-              "RelativeDocumentMoniker": "QLBH_API\\Models\\tbDanhMuc.cs",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\tbDanhMuc.cs",
-              "RelativeToolTip": "QLBH_API\\Models\\tbDanhMuc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T02:47:14.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\QuanLySanPham\\Create.cshtml",
-              "RelativeDocumentMoniker": "QLBH_WEB\\Views\\QuanLySanPham\\Create.cshtml",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\QuanLySanPham\\Create.cshtml",
-              "RelativeToolTip": "QLBH_WEB\\Views\\QuanLySanPham\\Create.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T15:50:11.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\QuanLySanPham\\Details.cshtml",
-              "RelativeDocumentMoniker": "QLBH_WEB\\Views\\QuanLySanPham\\Details.cshtml",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\QuanLySanPham\\Details.cshtml",
-              "RelativeToolTip": "QLBH_WEB\\Views\\QuanLySanPham\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T13:51:10.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "details.css",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\details.css",
-              "RelativeDocumentMoniker": "QLBH_WEB\\Content\\css\\details.css",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\details.css",
-              "RelativeToolTip": "QLBH_WEB\\Content\\css\\details.css",
-              "ViewState": "AgIAAIsAAAAAAAAAAADwv7AAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-23T13:53:44.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "dsSANPHAM.css",
               "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\dsSANPHAM.css",
               "RelativeDocumentMoniker": "QLBH_WEB\\Content\\css\\dsSANPHAM.css",
@@ -644,31 +444,369 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "EditSanPham.css",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\EditSanPham.css",
-              "RelativeDocumentMoniker": "QLBH_WEB\\Content\\css\\EditSanPham.css",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\EditSanPham.css",
-              "RelativeToolTip": "QLBH_WEB\\Content\\css\\EditSanPham.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "details.css",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\details.css",
+              "RelativeDocumentMoniker": "QLBH_WEB\\Content\\css\\details.css",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\details.css",
+              "RelativeToolTip": "QLBH_WEB\\Content\\css\\details.css",
+              "ViewState": "AgIAAIsAAAAAAAAAAADwv7AAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-23T13:54:11.627Z"
+              "WhenOpened": "2025-10-23T13:53:44.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "qlSANPHAM.css",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\qlSANPHAM.css",
-              "RelativeDocumentMoniker": "QLBH_WEB\\Content\\css\\qlSANPHAM.css",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\qlSANPHAM.css",
-              "RelativeToolTip": "QLBH_WEB\\Content\\css\\qlSANPHAM.css",
-              "ViewState": "AgIAAJcAAAAAAAAAAADwv7wAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "style.css",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\style.css",
+              "RelativeDocumentMoniker": "QLBH_WEB\\Content\\css\\style.css",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\style.css",
+              "RelativeToolTip": "QLBH_WEB\\Content\\css\\style.css",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAAIIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-23T13:54:43.88Z"
+              "WhenOpened": "2025-10-23T13:54:26.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QLBH_ADMIN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QLBH_ADMIN\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T15:46:28.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Web.config",
+              "RelativeDocumentMoniker": "QLBH_ADMIN\\Web.config",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Web.config",
+              "RelativeToolTip": "QLBH_ADMIN\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-30T15:36:39.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Web.config",
+              "RelativeDocumentMoniker": "QLBH_WEB\\Web.config",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Web.config",
+              "RelativeToolTip": "QLBH_WEB\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-13T20:24:19.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QLBH_WEB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QLBH_WEB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwDgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T14:20:45.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Views\\QuanLySanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLBH_ADMIN\\Views\\QuanLySanPham\\Index.cshtml",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Views\\QuanLySanPham\\Index.cshtml",
+              "RelativeToolTip": "QLBH_ADMIN\\Views\\QuanLySanPham\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T15:42:50.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SanPhamViewModel.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Models\\SanPhamViewModel.cs",
+              "RelativeDocumentMoniker": "QLBH_ADMIN\\Models\\SanPhamViewModel.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Models\\SanPhamViewModel.cs",
+              "RelativeToolTip": "QLBH_ADMIN\\Models\\SanPhamViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:40:19.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DanhMucViewModel.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Models\\DanhMucViewModel.cs",
+              "RelativeDocumentMoniker": "QLBH_ADMIN\\Models\\DanhMucViewModel.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_ADMIN\\Models\\DanhMucViewModel.cs",
+              "RelativeToolTip": "QLBH_ADMIN\\Models\\DanhMucViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:39:51.089Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "QLBH_WEB\\Controllers\\CartController.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Controllers\\CartController.cs",
+              "RelativeToolTip": "QLBH_WEB\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T19:54:13.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QLBH_WEB\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QLBH_WEB\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T19:57:54.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QLBH_API\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QLBH_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-23T13:02:02.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Controllers\\SanPhamController.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "QLBH_API\\Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:05:10.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Program.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Program.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Program.cs",
+              "RelativeToolTip": "QLBH_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T20:04:18.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Data\\DataContext.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Data\\DataContext.cs",
+              "RelativeToolTip": "QLBH_API\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T20:03:18.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DanhMucController.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Controllers\\DanhMucController.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Controllers\\DanhMucController.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Controllers\\DanhMucController.cs",
+              "RelativeToolTip": "QLBH_API\\Controllers\\DanhMucController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:04:56.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Controllers\\GioHangController.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "QLBH_API\\Controllers\\GioHangController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBQwAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T19:47:53.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\appsettings.json",
+              "RelativeDocumentMoniker": "QLBH_API\\appsettings.json",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\appsettings.json",
+              "RelativeToolTip": "QLBH_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-23T13:01:15.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CartItemDetail.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\CartItemDetail.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Models\\CartItemDetail.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\CartItemDetail.cs",
+              "RelativeToolTip": "QLBH_API\\Models\\CartItemDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:16:50.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DanhMucRepository.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\DanhMucRepository.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Models\\DanhMucRepository.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\DanhMucRepository.cs",
+              "RelativeToolTip": "QLBH_API\\Models\\DanhMucRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:07:08.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20251013185729_InitialCreate.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Migrations\\20251013185729_InitialCreate.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Migrations\\20251013185729_InitialCreate.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Migrations\\20251013185729_InitialCreate.cs",
+              "RelativeToolTip": "QLBH_API\\Migrations\\20251013185729_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:12:39.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "QLBH_API\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:12:38.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IDanhMucRepository.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\IDanhMucRepository.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Models\\IDanhMucRepository.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\IDanhMucRepository.cs",
+              "RelativeToolTip": "QLBH_API\\Models\\IDanhMucRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T20:08:44.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IGioHangRepository.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\IGioHangRepository.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Models\\IGioHangRepository.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\IGioHangRepository.cs",
+              "RelativeToolTip": "QLBH_API\\Models\\IGioHangRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T20:08:43.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ISanPhamRepository.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\ISanPhamRepository.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Models\\ISanPhamRepository.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\ISanPhamRepository.cs",
+              "RelativeToolTip": "QLBH_API\\Models\\ISanPhamRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:04:38.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GioHangRepository.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\GioHangRepository.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Models\\GioHangRepository.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\GioHangRepository.cs",
+              "RelativeToolTip": "QLBH_API\\Models\\GioHangRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T20:03:52.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SanPhamRepository.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\SanPhamRepository.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Models\\SanPhamRepository.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\SanPhamRepository.cs",
+              "RelativeToolTip": "QLBH_API\\Models\\SanPhamRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T13:07:03.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "tbSanPham.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\tbSanPham.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Models\\tbSanPham.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\tbSanPham.cs",
+              "RelativeToolTip": "QLBH_API\\Models\\tbSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T02:47:12.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "tbGioHang.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\tbGioHang.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Models\\tbGioHang.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\tbGioHang.cs",
+              "RelativeToolTip": "QLBH_API\\Models\\tbGioHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T03:07:55.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "tbDanhMuc.cs",
+              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\tbDanhMuc.cs",
+              "RelativeDocumentMoniker": "QLBH_API\\Models\\tbDanhMuc.cs",
+              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_API\\Models\\tbDanhMuc.cs",
+              "RelativeToolTip": "QLBH_API\\Models\\tbDanhMuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T02:47:14.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\SanPham\\Index.cshtml",
               "RelativeDocumentMoniker": "QLBH_WEB\\Views\\SanPham\\Index.cshtml",
@@ -680,7 +818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\SanPham\\Detail.cshtml",
               "RelativeDocumentMoniker": "QLBH_WEB\\Views\\SanPham\\Detail.cshtml",
@@ -692,7 +830,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "QLBH_WEB\\Views\\Cart\\Index.cshtml",
@@ -704,7 +842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "QLBH_WEB\\Views\\Home\\Index.cshtml",
@@ -716,19 +854,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\QuanLySanPham\\Edit.cshtml",
-              "RelativeDocumentMoniker": "QLBH_WEB\\Views\\QuanLySanPham\\Edit.cshtml",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\QuanLySanPham\\Edit.cshtml",
-              "RelativeToolTip": "QLBH_WEB\\Views\\QuanLySanPham\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-23T13:51:07.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "Cart.css",
               "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Content\\css\\Cart.css",
               "RelativeDocumentMoniker": "QLBH_WEB\\Content\\css\\Cart.css",
@@ -740,7 +866,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 43,
               "Title": "CartItem.cs",
               "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Models\\CartItem.cs",
               "RelativeDocumentMoniker": "QLBH_WEB\\Models\\CartItem.cs",
@@ -752,7 +878,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 42,
               "Title": "DanhMucViewModel.cs",
               "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Models\\DanhMucViewModel.cs",
               "RelativeDocumentMoniker": "QLBH_WEB\\Models\\DanhMucViewModel.cs",
@@ -764,7 +890,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 40,
               "Title": "Web.config",
               "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\Web.config",
               "RelativeDocumentMoniker": "QLBH_WEB\\Views\\Web.config",
@@ -776,7 +902,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 44,
               "Title": "Cart.cs",
               "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "QLBH_WEB\\Models\\Cart.cs",
@@ -788,7 +914,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 41,
               "Title": "SanPhamViewModel.cs",
               "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Models\\SanPhamViewModel.cs",
               "RelativeDocumentMoniker": "QLBH_WEB\\Models\\SanPhamViewModel.cs",
@@ -800,19 +926,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "QLBH_WEB\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "QLBH_WEB\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T14:20:45.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 53,
               "Title": "_ShoppingCartWidget.cshtml",
               "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\Cart\\_ShoppingCartWidget.cshtml",
               "RelativeDocumentMoniker": "QLBH_WEB\\Views\\Cart\\_ShoppingCartWidget.cshtml",
@@ -824,7 +938,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 54,
               "Title": "_DanhMucMenu.cshtml",
               "DocumentMoniker": "F:\\Dowload\\QLBH_API\\QLBH_API\\QLBH_WEB\\Views\\Home\\_DanhMucMenu.cshtml",
               "RelativeDocumentMoniker": "QLBH_WEB\\Views\\Home\\_DanhMucMenu.cshtml",

@@ -144,7 +144,6 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\CartController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\QuanLySanPhamController.cs" />
     <Compile Include="Controllers\SanPhamController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -276,11 +275,6 @@
     <Content Include="Views\Home\_DanhMucMenu.cshtml" />
     <Content Include="Views\SanPham\Index.cshtml" />
     <Content Include="Views\SanPham\Detail.cshtml" />
-    <Content Include="Views\QuanLySanPham\Index.cshtml" />
-    <Content Include="Views\QuanLySanPham\_SanPhamForm.cshtml" />
-    <Content Include="Views\QuanLySanPham\Create.cshtml" />
-    <Content Include="Views\QuanLySanPham\Edit.cshtml" />
-    <Content Include="Views\QuanLySanPham\Details.cshtml" />
     <Content Include="Views\Cart\Index.cshtml" />
     <Content Include="Views\Cart\_ShoppingCartWidget.cshtml" />
   </ItemGroup>

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLBH_API", "QLBH_API\QLBH_A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLBH_WEB", "QLBH_WEB\QLBH_WEB.csproj", "{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLBH_ADMIN", "QLBH_ADMIN\QLBH_ADMIN.csproj", "{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A11782B-679F-4F3B-B27D-FC9FA934BBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5884388F-2A86-4A3B-8D6C-9A3AB2E6334D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
